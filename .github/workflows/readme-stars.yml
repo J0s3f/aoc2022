@@ -1,7 +1,8 @@
 name: Update README ⭐
 on:
-  schedule:
-    - cron: "31 * * * *"  # Every hour
+  push:
+    paths:
+      - '*/*.py' 
   workflow_dispatch:
 
 jobs:
