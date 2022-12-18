@@ -25,4 +25,5 @@ Results so far:
 | [Day 13](https://adventofcode.com/2022/day/13) | ⭐ | ⭐ |
 | [Day 14](https://adventofcode.com/2022/day/14) | ⭐ | ⭐ |
 | [Day 15](https://adventofcode.com/2022/day/15) | ⭐ | ⭐ |
+| [Day 18](https://adventofcode.com/2022/day/18) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
